@@ -211,7 +211,7 @@ body {
 
 /* Banner section start */
 .banner-section {
-  background-image: url(/images/group14.png);
+  background-image: url(../images/group14.png);
   background-size: 50% 100%;
   background-position: top left;
   background-repeat: no-repeat;
